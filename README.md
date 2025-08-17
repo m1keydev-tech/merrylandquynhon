@@ -51,11 +51,13 @@ project-root/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<m1keydev-tech>/merryland-quynhon.git
+   git clone https://github.com/m1keydev-tech/merryland-quynhon.git
    cd merryland-quynhon
    ```
 2. **Open in browser*
+   ```bash
    open index.html
+   ```
 
 📜 License
 
