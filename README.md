@@ -54,7 +54,7 @@ project-root/
    git clone https://github.com/m1keydev-tech/merryland-quynhon.git
    cd merryland-quynhon
    ```
-2. **Open in browser*
+2. **Open in browser**
    ```bash
    open index.html
    ```
